@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-# MobileNet single shot detector(ssd) pre trained model is used
+# MobileNet single shot detector(SSD) pre trained model is used
 
 # initializing the list of class labels MobileNet SSD was trained to
 # detect, then generate a set of bounding box colors for each class
